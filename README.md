@@ -1,1 +1,1 @@
-![](https://github.com/F4llenAng3l/About-Me/blob/main/sans.gif)
+![](https://im.ezgif.com/tmp/ezgif-1-49c7ded5b3.gif)
