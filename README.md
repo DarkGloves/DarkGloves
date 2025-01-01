@@ -43,7 +43,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DarkGloves&theme=transparent)](https://git.io/streak-stats)
 
-[![Help Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner.svg)]()
 
 
 </div>
